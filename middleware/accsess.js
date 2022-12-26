@@ -48,9 +48,9 @@ const signIn = async (req, res) => {
             name: user.name,
             email: user.email,
           };
-          jwt.sign(payload, process.env.SECRET_KEY, { expiresIn: 31556926 }, (err, token) => {
+          jwt.sign(payload, process.env.SECRET_KEY, { expiresIn: "3h" }, (err, token) => {
             if (err) return res.status(400).json({ err, message: false });
-            res.json({ success: true, token: `Bearer token: ${token}` });
+            res.json({ success: true, token: token});
           });
         } else {
           return res
