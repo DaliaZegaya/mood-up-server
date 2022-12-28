@@ -1,5 +1,5 @@
 <h1> 😄 IT'S TIME TO MOOD UP 😄 </h1>
-<h>A mood tracking application, the application learns the user according to the information the user enters and accordingly knows how to offer him programs to raise his mood.</h4>
+<h4>A mood tracking application, the application learns the user according to the information the user enters and accordingly knows how to offer him programs to raise his mood.</h4>
 <h4>In the application you can find a daily quote, places to travel and in the future also a music playlist.</h4>
 
 <h4>The project was very interesting and challenging, React Native is a technology that I learned on my own and I'm glad that I took on the challenge 💪🏽<h4>
