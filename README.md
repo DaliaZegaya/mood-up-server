@@ -5,7 +5,7 @@
 <h3>The project was very interesting and challenging, React Native is a technology that I learned on my own and I'm glad that I took on the challenge 💪🏽<h3>
 <h3>I hope you enjoy it, if you have any questions feel free to send me a message on LinkedIn 🤗<h3>
 
-The technologies I worked with are:
-Fronted: React Native
-Backend: Node.js
-DataBase: MongoDB
+<h4>The technologies I worked with are:</h4>
+<h4>Fronted: React Native</h4>
+<h4>Backend: Node.js</h4>
+<h4>DataBase: MongoDB</h4>
